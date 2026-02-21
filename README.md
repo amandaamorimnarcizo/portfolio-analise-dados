@@ -1,4 +1,4 @@
-# Portfólio Analise de Dados
+# Portfólio Amanda Amorim
 Portfólio de projetos em Análise de Dados – Excel e Power BI
 
 Sou Assistente Técnica Comercial (Orçamentista), com experiência
