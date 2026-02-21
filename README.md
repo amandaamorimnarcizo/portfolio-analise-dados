@@ -1,4 +1,4 @@
-# Portfoli Analise de Dados
+# Portfólio Analise de Dados
 Portfólio de projetos em Análise de Dados – Excel e Power BI
 
 Sou Assistente Técnica Comercial (Orçamentista), com experiência
